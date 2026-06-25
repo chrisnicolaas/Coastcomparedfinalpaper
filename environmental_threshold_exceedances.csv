@@ -1,0 +1,17 @@
+Location,Threshold,Hours,Days
+Oregon,pH (<= 7.2 or >= 8.4),0,0
+Oregon,Pelagic Stress (<30 or >38 psu),33616,1547
+Oregon,Coral Reef Stress (<25 or >42 psu),0,0
+Oregon,Coastal & Benthic Stress (<18 or >70 psu),0,0
+Oregon,Temp > 29.5 °C,0,0
+Oregon,Temp > 30.0 °C,0,0
+Oregon,Temp > 30.5 °C,0,0
+Oregon,Temp > 31.0 °C,0,0
+Aruba,pH (<= 7.2 or >= 8.4),0,0
+Aruba,Pelagic Stress (<30 or >38 psu),0,0
+Aruba,Coral Reef Stress (<25 or >42 psu),0,0
+Aruba,Coastal & Benthic Stress (<18 or >70 psu),0,0
+Aruba,Temp > 29.5 °C,8624,422
+Aruba,Temp > 30.0 °C,4005,252
+Aruba,Temp > 30.5 °C,782,82
+Aruba,Temp > 31.0 °C,86,19

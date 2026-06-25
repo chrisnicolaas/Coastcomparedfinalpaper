@@ -1,0 +1,18 @@
+# Envs
+.venv/
+.venv_old/
+
+# NetCDF files
+*.nc
+sidsgeopackages.zip
+
+# Cache
+__pycache__/
+*.pyc
+
+# Temp
+scratch/
+
+# OS
+.DS_Store
+Thumbs.db
